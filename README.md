@@ -1,6 +1,6 @@
 # Car-Pooling-System
 
-About
+###About :
 
 
 The Carpooling App is a web application that allows users to find matches for their carpool trips.
@@ -12,7 +12,7 @@ The Carpooling App also allows users to leave reviews for other users. This help
 The Carpooling App is a great way for people to save money on transportation and reduce their carbon footprint. It is also a great way to meet new people and make friends.
 
 
-User Stories
+###User Stories:
 
 
 
