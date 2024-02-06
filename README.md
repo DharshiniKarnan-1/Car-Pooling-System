@@ -19,6 +19,9 @@ The Carpooling App is a great way for people to save money on transportation and
 Here are some user stories for the Carpooling App:
 
 As a user, I want to be able to create a profile so that I can find matches for my carpool trips.
+
 As a user, I want to be able to search for matches for my trips based on my destination, departure time, and other criteria.
+
 As a user, I want to be able to contact other users and arrange the details of a carpool trip.
+
 As a user, I want to be able to leave reviews for other users so that I can help other users make informed decisions about who to carpool with.
